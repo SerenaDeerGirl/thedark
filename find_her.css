@@ -1,0 +1,16 @@
+@font-face {
+    font-family: dtSans;
+    src: url(see_you_soon.ttf);
+}
+
+body {
+	background-color: black;
+	font-family: dtSans;
+	color: white;
+	padding: 60px 0;
+}
+
+p {
+	text-align: center;
+	vertical-align: middle;
+}
