@@ -3,11 +3,16 @@
     src: url(see_you_soon.ttf);
 }
 
+#container {
+	
+}
+
 body {
-	background-color: black;
+	background-image: linear-gradient(black, #1e041a);
+	background-attachment: fixed;
 	font-family: dtSans;
 	color: white;
-	padding: 60px 0;
+	padding: 50px 0;
 }
 
 p {
@@ -19,6 +24,7 @@ nav {
 	border-style: solid;
 	border-color: white;
 	border-width: 5px;
+	background-color: black;
 	text-align: center;
 	vertical-align: middle;
 	color: white;
@@ -28,6 +34,10 @@ nav {
 	top: 0;
 	padding-bottom:22px;
 	padding-top:22px;
+}
+
+aside {
+	
 }
 
 img {
@@ -52,4 +62,12 @@ ul {
 nav li {
 	display: inline;
 	padding-right: 20px;
+}
+
+section {
+	
+}
+
+footer {
+	
 }
